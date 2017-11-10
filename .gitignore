@@ -3,3 +3,10 @@
 
 #过滤gitignore
 gitignore
+
+
+#过滤doc文件夹
+/doc
+
+#过滤1.txt
+1.txt
